@@ -1,0 +1,209 @@
+.imgSignUp{
+    background-image: url('../img/Estudiantes.jpg');
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 700px !important;
+    /*height: -webkit-fill-available !important;*/
+}
+
+.flex1{
+    /*nuevo*/
+    display:flex !important;
+    height: auto;
+    width: auto;
+}
+
+.espacio9{
+    height: 30px;
+}
+
+.formSignUp{
+    width: 683px;
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 70px;
+    color: #a6b0b1;
+    height: auto !important;
+}
+
+
+.titulo{
+    background-color: #c77fd6;
+    height: 62px;
+    padding-top: 18px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 25px !important;
+}
+
+.letraH{
+    color: white !important;
+}
+
+@media (min-height: 523px) {
+    .letraH{
+        color: white !important;
+        font-size: 18px !important;
+        margin-top: 4px !important;
+    }
+}
+
+.letraC{
+    color: rgb(99, 99, 99) !important;
+}
+
+.form-control{
+    border-bottom-color: #ababa0 !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+}
+
+.form-control:focus{
+    outline: none !important;
+}
+
+input:focus, input.form-control:focus {
+    outline-style: solid !important;
+    outline-width: 0px !important;
+    border-bottom: solid 2px #fd8422 !important;
+    color: #fd8422  !important;
+    box-shadow: none;
+}
+
+input:focus::-webkit-input-placeholder {
+    color: #fd8422 ;
+}
+
+.posicionLogin{
+    display: flex;
+    flex-direction: column;
+}
+
+.espacio8{
+    height: 20px;
+}
+
+.espacio7{
+    height: 59px;
+}
+
+@media (max-height: 640px) {
+    .espacio7{
+        height: 42px;
+    }
+}
+
+@media (max-width: 698px){
+    .espacio7{
+        height: 20px;
+    }
+}
+
+@media (max-width: 518px){
+    .espacio7{
+        height: 0px;
+    }
+}
+
+.btn-login{
+    background-color: #44cc66;
+    border-color: #44cc66;
+    border-radius: 10px !important;
+    height: 45px;
+    width: 150px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 18px;
+    margin-top: 30px !important;
+}
+
+.btn-login:hover{
+    background-color: #71b8da;
+    border-color: #71b8da;
+}
+
+.final{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #ababa0;
+    margin-top: 15px !important;
+    color: rgb(75, 75, 75);
+}
+
+.forget{
+    margin-top: 18px !important;
+    color: rgb(75, 75, 75);
+}
+
+/* Maestro */
+
+.imgSignUp1{
+    background-image: url('../img/Maestros.jpg');
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 700px !important;
+    /*height: -webkit-fill-available !important;*/
+}
+
+.titulo1{
+    background-color: #5986db;
+    height: 62px;
+    padding-top: 18px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 25px !important;
+}
+
+.btn-login1{
+    background-color: #5d44cc;
+    border-color: #5d44cc;
+    border-radius: 10px !important;
+    height: 45px;
+    width: 150px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 18px;
+    margin-top: 30px !important;
+}
+
+.btn-login1:hover{
+    background-color: #c271da;
+    border-color: #c271da;
+}
+
+/*Administrador*/
+
+.imgSignUp2{
+    background-image: url('../img/intro-bg.jpg');
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 700px !important;
+}
+
+.titulo2{
+    background-color: #b8874f;
+    height: 62px;
+    padding-top: 18px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 25px !important;
+}
+
+.btn-login2{
+    background-color: #ce4949;
+    border-color: #ce4949;
+    border-radius: 10px !important;
+    height: 45px;
+    width: 150px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 18px;
+    margin-top: 30px !important;
+}
+
+.btn-login2:hover{
+    background-color: #ce6f16;
+    border-color: #ce6f16;
+}

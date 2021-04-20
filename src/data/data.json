@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "Bienvenidos AICA",
+        "paragraph": "Somos la mejor Academia de lenguas, te ofecemos la mejor facilidad para aprender el idioma que tu quieras ven y se parte de la mejor experiencia de tu vida AICA "
+
+    },
+    "About": {
+        "paragraph": "Somos la Academia De idioma Centroamaricana lider en la enseñanza de lenguas extranjeras, contamos con el mejor personal capacitado y calificado para brindarte la mejor experiencia en tu vida aprendiendo un idioma,  ademas contamos con la mejor plataforma que podras encontrar e incluso instalaciones que tienen la mejor bioseguridad si quieres tener la experiencia presencial te esperamos .",
+        "Why": [
+            "Numero uno en la Industria",
+            "Plataforma Moderna",
+            "Tecnologia Avanzada",
+            "Estamos innovado constantemente"
+        ],
+        "Why2": [
+            "Horario Flexible",
+            "Docentes mejor Calificados",
+            "Instalaciones Modernas",
+            "La bioseguridad adecuada"
+        ]
+    },
+    "Services": [{
+        "img": "servicios/alemania.png",
+        "name": " Idioma Aleman",
+        "text": "Es el idioma oficial en Alemania, Austria y Liechtenstein y uno de los idiomas oficiales en Suiza y Luxemburgo."
+        },
+        {
+            "img": "servicios/china.png",
+            "name": " Idioma Mandarin",
+            "text": "Lengua más hablada del mundo, Es hablada en China, Taiwán, Singapur, Hong Kong, Malasia y Vietnam"
+        },
+        {
+            "img": "servicios/estados-unidos.png",
+            "name": " Idioma Ingles",
+            "text": "El inglés es un idioma que tiene casi el doble de hablantes como segunda lengua, lo cual nos puede dar una idea de su gran importancia."
+        },
+        {
+            "img": "servicios/francia.png",
+            "name": " Idioma Frances",
+            "text": "Es una de las lenguas llamadas idiomas romances. Se habla como lengua materna en la mayoría de Francia, Mónaco y en determinadas zonas."
+        },
+        {
+            "img": "servicios/italia.png",
+            "name": " Idioma Italiano",
+            "text": "El italiano es una lengua bastante fácil de aprender si ya hablas español, francés o incluso portugués. El alfabeto italiano es casi igual que el nuestro."
+        },
+        {
+            "img": "servicios/japon.png",
+            "name": "Idioma Japones",
+            "text": "Los hablantes de cualquier idioma tienen sus propios dialectos, acentos y personalidades que afectan a cómo de rápido hablan."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "testimonials/01.jpg",
+            "text": "\"Considero que a sido una experiencia super buena e aprendido mucho y e hechos buenos amigos extranjeros para mejorar mi lexico en Frances salut amigos.\"",
+            "name": "Jose Donaire"
+        },
+        {
+            "img": "testimonials/02.jpg",
+            "text": "\"Para mi ha sido la mejor decision que e tomado, me gusta mucho lo que e aprendido en el curso de Italiano bueno creo que ya soy todo un master en el idioma.\"",
+            "name": "Johnathan Barralaga"
+        },
+        {
+            "img": "testimonials/03.jpg",
+            "text": "\"Yo me la e paso de lo genial, haciendo nuevas amistades conociendo la cultura y el idioma del Mandarin siempre soñe en ir a la muralla China hablando Mandarin.\"",
+            "name": "Cesar Sandoval"
+        },
+        {
+            "img": "testimonials/04.jpg",
+            "text": "\"Me ha encantado ser parte de una familia tan grande como lo es AICA me an abierto las puertas de un nuevo mundo, a mejorado mi confianza y mi empleo .\"",
+            "name": "Ivanna Lopez"
+        },
+        {
+            "img": "testimonials/05.jpg",
+            "text": "\"Yo que puedo Decir, la recomiendo totalmente yo en 3 meses ya tengo un mejor nivel de Ingles, me siento mas confiado y lo mejor puedo disfrutar de Bruno Mars .\"",
+            "name": "Andres Martel"
+        },
+        {
+            "img": "testimonials/06.jpg",
+            "text": "\"Me siento totalmente feliz por obtener mi Certificado de trilingue en esta Academia E perfeccionado mi Ingles,Aleman,Frances tanto que puedo conversar si problemas.\"",
+            "name": "Valerith Belmonte"
+        }
+    ],
+    "Team": [{
+            "img": "team/01.jpg",
+            "name": "Lee Son",
+            "job": "Docente origen Chino"
+        },
+        {
+            "img": "team/02.jpg",
+            "name": "Mike Hasbun",
+            "job": "Docente origen Italiano"
+        }, {
+            "img": "team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Docente oRIGEN Aleman"
+        },
+        {
+            "img": "team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Docente origen Frances"
+        }
+    ],
+    "Contact": {
+        "address": "Col. Altos de Miraflores Sur, Bloque Y, Casa 6, Edificio Suites Lingan, Local 1 , Tegucigalpa, Honduras 11101 11101 Tegucigalpa, Honduras",
+        "phone": "+504 3164-6734",
+        "email": "academiacentroamericana504@gmail.com",
+        "facebook": "https://www.facebook.com/academiaidiomasca",
+        "WhatsApp": "https://api.whatsapp.com/send?phone=50431646734&fbclid=IwAR1WWRS95FWinC0ceA0mhx6HfyN6Bg3VwKlgWHn2kkd8fkIGF9F5aQnabcw",
+        "Instagram": "https://www.instagram.com/academiaidiomasca"
+    },
+    "Features": [{
+            "png": "features/academia.png",
+            "title": "Academia",
+            "text": "Encuentra los mejores beneficios para aprender un idioma en nuetras academia contamos con los mejores servicios."
+        },
+        {
+            "png": "features/traducir.png",
+            "title": "Traductor",
+            "text": "Quieres ser un experto en la traduccion unete a nuestra Academi te ofrecemos las mejores oportunidad para traducir tu cancion favorita, poema etc..."
+        },
+        {
+            "png": "features/unidad.png",
+            "title": "Unidad",
+            "text": "Quieres ser capaz de poder interactuar con otras personas extranjeras ya sea por redes sociales o personalmente ven y unete a la familia AICA te esperamos. "
+        },
+        {
+            "png": "features/ubicacion.png",
+            "title": "Ubicacion",
+            "text": "AICA cuenta con todos los beneficios posibles para que quiera ser parte de ella, contamos con instalaciones acondicionadas contra la COVID."
+        }
+    ]
+}

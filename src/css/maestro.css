@@ -1,0 +1,84 @@
+.imgSignUp1{
+    background-image: url('./img/Maestros.jpg');
+    background-size: cover !important;
+    height: -webkit-fill-available !important;
+}
+
+.flex1{
+    display: flex;
+}
+
+.alto1{
+    height: 657px !important;
+}
+
+.ancho1{
+    width: 683px !important;
+}
+
+.formSignUp{
+    width: 683px;
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 70px;
+    color: #a6b0b1;
+}
+
+
+.titulo1{
+    background-color: #5986db;
+    height: 62px;
+    padding-top: 18px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 25px !important;
+}
+
+.letraH{
+    color: white !important;
+}
+
+.form-control{
+    border-bottom-color: #ababa0 !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+}
+
+.form-control:focus{
+    outline: none !important;
+}
+
+input:focus, input.form-control:focus {
+    outline-style: solid !important;
+    outline-width: 0px !important;
+    border-bottom: solid 2px #fd8422 !important;
+    color: #fd8422  !important;
+    box-shadow: none;
+}
+
+input:focus::-webkit-input-placeholder {
+    color: #fd8422 ;
+}
+
+.btn-login1{
+    background-color: #5d44cc;
+    border-color: #5d44cc;
+    border-radius: 10px !important;
+    height: 45px;
+    width: 150px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 18px;
+    margin-top: 30px !important;
+}
+
+.btn-login1:hover{
+    background-color: #c271da;
+    border-color: #c271da;
+}
+
+.final{
+    margin-top: 15px !important;
+}

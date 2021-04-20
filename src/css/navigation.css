@@ -1,0 +1,91 @@
+
+.navbar2{
+    background-color: #ffffff;
+    width: 100%;
+	height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+	display: flex;
+  
+}
+.navbar2 .leftside{
+    flex: 10%;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar2 .leftside .logo{
+    color: cadetblue;
+}
+
+.navbar2 .rightside{
+    flex: 90%;  
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+    padding-right: 35px;
+    
+}
+.navbar2 .rightside .links2{
+    max-height: 80px;
+    color: black;
+}
+.navbar2 .rightside .links2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    color: rgb(0, 95, 99);
+}
+.navbar2 .rightside .button2{
+    display: none;
+    margin-right: 25px;
+    background-color:  #ffffff!important;
+    
+}
+.navbar2 .rightside #hidden{
+    display: flex; 
+}
+
+@media only screen and (max-width: 850px){
+    .navbar2 .rightside .links2 a{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 750px){
+    .navbar2 .rightside .links2 a{
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 650px){
+    .navbar2 .rightside .button2{
+        display: flex;
+  
+    }
+    .navbar2 .rightside .links2{
+        display: none;
+    }
+}
+.navbar2 .rightside #hidden{
+    position: absolute;
+    right: 0px;
+    top: 80px;
+    height: 230px;
+    max-height: 400px;
+    width: 100%;
+   background-color: #021E39;
+   display: flex;
+   flex-direction: column;
+   align-items: center;   
+}
+.navbar2 .rightside #hidden a{
+    margin: 5px;
+    font-size: 15px;
+    color: blanchedalmond;
+}
+
+
+
+
+
+
